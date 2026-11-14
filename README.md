@@ -44,7 +44,7 @@ A sample prospect database designed to help supplier or partnership teams priori
 ---
 
 ### 🛠️ Tools
-Excel • Google Sheets • Google Workspace • OneDrive • Calendly • Trello • LinkedIn Sales Navigator • Apollo.io • Hunter.io • Instant Data Scraper • Canva
+Microsoft Office (Excel, Word, PowerPoint, Outlook, OneDrive) • Google Workspace (Gmail, Calendar, Drive, Docs, Sheets) • Calendly • Trello • HubSpot CRM • LinkedIn Sales Navigator • Apollo.io • Hunter.io • Instant Data Scraper • Canva • Zoom • ChatGPT • Claude
 
 ### 📬 Contact
 Need help with a research task, spreadsheet cleanup, or ongoing admin support? Feel free to reach out:
