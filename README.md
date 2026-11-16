@@ -31,28 +31,6 @@ I spent 4+ years in education as a teacher and homeroom teacher, handling studen
 
 🔗 [View on Canva](https://malika-portofolio.my.canva.site/restaurant-prospect-database)
 
-## 5. Dental Clinic Leads: Greater Toronto Area 🦷
-
-- **For:** suppliers and service providers that sell to dental clinics.
-- **Sample:** 72 independent clinics from Google Maps and Yellow Pages Canada, each with address, phone, website, rating, review count, new-patient status, and a lead score. I checked each website and phone number.
-
-🔗 [View on Canva](LINK_5)
-
-## 6. Wellness Studio Leads: New York City 🧘
-
-- **For:** brands looking to partner with yoga and Pilates studios.
-- **Sample:** 50 studios in neighborhoods like Williamsburg and Park Slope (500 to 20K Instagram followers), each with address, website, Instagram handle, followers, last post date, year founded, and a Priority A or B tag. I checked each website and Instagram activity.
-
-🔗 [View on Canva](LINK_6)
-
-## 7. Instagram Creator Research: Indonesia 📱
-
-- **For:** brands planning an influencer campaign that need a
-  shortlist.
-- **Sample:** 100 hijab and modest fashion creators reviewed by hand (no scraping, about 3 to 4 days) and 50 shortlisted (5K to 50K followers). Each has engagement stats, a brand fit score (1 to 5), past collaborations, contact method, and red flags. Includes sample outreach messages for Instagram DM, WhatsApp, and email.
-
-🔗 [View on Canva](LINK_7)
-
 ## Tools 🛠️
 
 - **Office and admin:** Excel, Google Workspace, Word, PowerPoint, Outlook, OneDrive, Calendly, Trello, Zoom, Canva
