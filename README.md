@@ -34,7 +34,7 @@ I spent 4+ years in education as a teacher and homeroom teacher, handling studen
 ## 5. Dental Clinic Leads: Greater Toronto Area 🦷
 
 - **For:** suppliers and service providers that sell to dental clinics.
-- **Sample:** 100 independent clinics from Google Maps and Yellow Pages Canada, each with address, phone, website, rating, review count, new-patient status, and a lead score. I checked each website and phone number.
+- **Sample:** 72 independent clinics from Google Maps and Yellow Pages Canada, each with address, phone, website, rating, review count, new-patient status, and a lead score. I checked each website and phone number.
 
 🔗 [View on Canva](LINK_5)
 
