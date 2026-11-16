@@ -49,6 +49,6 @@ I spent 4+ years in education as a teacher and homeroom teacher, handling studen
 Send me a short message with what you need, and I'll let you know if I can help. I'm open to freelance projects and to part-time or full-time admin and operations roles (remote, hybrid, or on-site).
 
 - 📧 malikaqudsi01@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/malikaqudsi)
-- 🔗 [Upwork](https://www.upwork.com/freelancers/~01fc2bf66c7c3ea5fb) · [Fastwork](FASTWORK_LINK) · [Fiverr](FIVERR_LINK)
+- 💼 [linkedin.com/in/malikaqudsi](https://www.linkedin.com/in/malikaqudsi)
+- 🔗 [My Upwork profile](https://www.upwork.com/freelancers/~01fc2bf66c7c3ea5fb)
 - 📍 Bogor, Indonesia (UTC+7)
